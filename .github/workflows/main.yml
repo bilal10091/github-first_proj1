@@ -10,5 +10,5 @@ jobs:
 
    steps:
     - name:Greatings
-      run:echo "Love Pakistan"
+      run:echo "LovePakistan"
     
