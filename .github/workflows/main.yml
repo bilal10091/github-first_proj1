@@ -9,6 +9,6 @@ jobs:
    runs-on: ubuntu-latest
 
    steps:
-    - name:Greatings
-      run:echo "LovePakistan"
+    - name: Greatings
+      run: echo "LovePakistan"
     
