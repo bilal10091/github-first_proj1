@@ -1,0 +1,14 @@
+name: Bilal Ahsan
+
+on: 
+  push:
+   branches: [main]
+
+jobs:
+  demo:
+   runs-on: ubuntu-latest
+
+   steps:
+    - name:Greatings
+      run:echo "Love Pakistan Build Pakistan"
+    
